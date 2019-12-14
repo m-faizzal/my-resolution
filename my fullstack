@@ -3,12 +3,14 @@ MATERI UNTUK FULLSTACK WEB DEVELOPER
 - Frontend
     * HTML
     * CSS
-         ^ Materialize CSS
+         ^ Bootstrap
     * Javascript
          ^ Vue
          ^ Angular
+         ^ React
   
 - Backend
     * PHP
          ^ Laravel
     * MySql
+    * Python
